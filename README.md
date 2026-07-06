@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a Front-End Developer with 3+ years of experience building production-ready web applications.
+I'm a Front-End Developer with 4+ years of experience building production-ready web applications.
 
 I focus on creating clean, scalable and maintainable user interfaces using React, modern JavaScript and component-driven architecture.
 My work includes e-commerce platforms, workflow management systems, dashboards, form builders and responsive web applications.
